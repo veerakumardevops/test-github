@@ -1,0 +1,194 @@
+Agenda :
+Github account :
+https://github.com/techfarmersrikanth/linux-zero-to-hero
+
+walkthrough what is Devops and cloud ?
+what is linux ?
+AWS account creation ?
+
+
+
+Non IT 
+operations support 
+Testing 
+admins
+.net 
+fresheres 
+
+
+irctc
+
+phonpe
+client phonpe
+idea --> service based company --> TCS
+idea --> implement (Handover to TCS)
+TCS
+Artechitect  -->design 
+developers -> code c,java,python -->1k files --> 10 people
+phonpe -->
+transactions -->1 guy
+send --> 1
+recieve
+check balance
+upi scan
+
+1000 files -->.zip,.tar,.apk,.msi,.exe
+build (maven) --> 2 gb phonpe.apk
+
+the order mismatch
+loss of files
+proper downloads
+test cases -->
+check balance -->upi pin --> balance
+mytransactions --> check last 10 transactions
+		  git-github maven 	developers   	
+idea -->design -->code --> build --> test --->dev-prod ->operations teams -->fixed logs -->troubleshoot --
+
+devops -->CI - Jenkins-job-->
+	  CD
+SDLC --> software development life cycle -->
+
+deployment faster 
+dev ,UAT/pre-prod,PROD
+phonepe ->phone
+
+
+phonpe-v1.0 deployed
+phonpe-v1.1 minor release
+
+phonpe-v2.0 major release 
+
+we are going one tool
+CI jenkins -->  
+  teamcity -->
+  circleci
+  bambooci
+  tekton  --> tekton new tool ,terms ,process ,KT
+
+GithUB
+bitbucket
+
+devops engineer -->open minded , learning curve , 
+
+
+tomcat --> server
+Nagios -->server ,
+ping server_name  10's,  application running status   endpoint   8080
+    yes/No                        Running /Stopped      yes       yes
+
+  yes                              r                    
+systemctl status tomcat
+
+_____________________________________
+
+
+cloud --
+a company startup on 12 -apr-2024 -2026 -> 2 years --> productivity /demand down
+---requirements--
+1)  land chennai/hyd  --> 1-2 months
+2)  DATA center /server setups.admin teams,power ,ac -6 months
+3)  office space  - 2 months
+4)  infra  -- chairs, logistics etc - 1 months
+5) start hiring people  - 6 months
+ final --> 17 months - 1 yr 5 months
+ start working on idea-client 
+
+cap-ex is more
+op-ex  is more 
+
+
+today in cloud world 
+1) 2) 5 mins 
+100 servers ->cloud request the servers lease --> pay as you go 
+50 servers -> 
+10 
+3) wfh
+4) NA
+5) common 
+
+
+tools ? no methods/practices of implementing CI/CD
+limited  tools ? no
+srikanth -> Mars  -->Devops eng   --> Java  --> Maven --> Jenkins  --> contarized 
+vijay --> Pepsico -->Devops eng   ---> scala --->  sbt --> Jenkins --> vm based 
+CI/CD->
+DevOps he shouldn't stick to tools :
+
+same --> 99%
+
+no coding ?no
+
+Recap :
+what is devops?
+what is cloud?
+application deplyment stages?
+
+what is linux ?
+
+operating system , open source - linux kernel
+very secure 
+
+linux server
+open a file, copying ,moving
+moving from folder to folder
+
+
+vi filename
+
+1) kernel  -> core or brain 
+
+Advantages:
+1) it is an open source 
+2) security - more secure 
+3) updates are easy
+4) large community 
+5) stable
+6) supports many file formats .txt .yaml 
+7)  fast and easy to install
+
+Disadvanatages:
+1) not user friendly -
+2)limited peripheral hardware drivers 
+
+
+cloud -->
+providers -->
+1) AWS by Amazon - infra 
+2) Azure by Microsoft
+3) GCP-  by Google
+
+AWS -infra 
+Create an account 
+1) gmail account
+2) pay 2 rs debit 
+3) free tier 
+
+https://aws.amazon.com/events/apj/aws-lift/?gclid=Cj0KCQjwlN6wBhCcARIsAKZvD5hF13Q8ioqZCKDYbI1lw7MOwJX4HMXvQ3zWz8-V09EhvrANp__XbLoaAuL7EALw_wcB&trk=09863622-0e2a-4080-9bba-12d378e294ba&sc_channel=ps&ef_id=Cj0KCQjwlN6wBhCcARIsAKZvD5hF13Q8ioqZCKDYbI1lw7MOwJX4HMXvQ3zWz8-V09EhvrANp__XbLoaAuL7EALw_wcB:G:s&s_kwcid=AL!4422!3!453325184854!e!!g!!aws%20account!10712784862!111477280251
+
+
+
+Recap :
+
+
+product based company  --> Oracle ,Amazon  -->db,AWS ,Mars
+service based         ---> TCS , infys ,Wipro  --> clients like
+750 members - tcs, bid ,mou -5 years
+_________________________
+
+" Create 20 files with .txt extensions and rename the first 5 files to .yml extension
+ Print the latest created top 5 files among the total no of files"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
